@@ -1,0 +1,23 @@
+{
+  "name": "helloinit",
+  "version": "0.0.0",
+  "description": "A simple server to help demonstrate node scripts in init.d on debian",
+  "main": "helloInit",
+  "bin": "helloInit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblankenship/helloInit.git"
+  },
+  "keywords": [
+    "donotuse"
+  ],
+  "author": "william.jblankenship@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wblankenship/helloInit/issues"
+  },
+  "homepage": "https://github.com/wblankenship/helloInit"
+}

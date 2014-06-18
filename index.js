@@ -1,0 +1,8 @@
+var http = require('http')
+
+http.createServer(handle).listen(8080,"0.0.0.0")
+
+function handle(req,res) {
+  res.writeHead(200, {'Content-Type' : 'text/plain'})
+  res.end("Hello Init.d from Node.JS!")
+}

@@ -1,6 +1,6 @@
 {
   "name": "helloinit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple server to help demonstrate node scripts in init.d on debian",
   "main": "helloInit",
   "bin": "helloInit",

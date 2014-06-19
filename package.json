@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wblankenship/helloInit/issues"
   },
-  "homepage": "https://github.com/wblankenship/helloInit"
+  "homepage": "https://github.com/wblankenship/helloInit",
+  "dependencies": {
+    "daemon": "^1.1.0"
+  }
 }

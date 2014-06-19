@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+require('daemon')()
 var http = require('http')
 
 http.createServer(handle).listen(8080,"0.0.0.0")
